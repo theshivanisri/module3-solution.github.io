@@ -1,0 +1,58 @@
+div>h2{
+	text-align: center;
+	padding: 40px 0px;
+}
+
+.head{
+    font-family: Georgia, serif;
+	text-align: center;
+	margin:0px;
+	padding-bottom:15px;
+    color:black;
+	font-weight: 700;
+    font-size: 130%;
+}
+.pack{	
+	box-sizing: border-box;	
+	background-color:grey;
+	border: 1px solid black;
+	margin:10px;
+	padding:20px 10px 10px 20px; 
+	float:left;
+	font-size: 17px;
+	font-family: Georgia, serif;
+}
+
+
+
+#header-nav {
+  background-color: grey;
+  border-radius: 0;
+  border: 3px solid black;
+}
+.navbar-brand a{
+	padding:0;
+	font-size:180%;
+	color:black;
+	font-family: Georgia, serif;
+}
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid black;
+}
+
+#nav-list {
+  margin-top: 5px;
+  font-size:120%;
+  color:black;
+  font-family: Georgia, serif;
+}
+#nav-list a {
+  color: black;
+  text-align: center;
+}
+#nav-list a:hover {
+  background: #E7E7E7;
+}
+#nav-list a span {
+  font-size: 1.8em;
+}
